@@ -1,0 +1,13 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        int x = 5;
+        int y = 8;
+        boolean a = x == y;
+        
+        
+        System.out.println(x +y);
+        System.out.println(x *y);
+        System.out.println(a);
+     }
+}
